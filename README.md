@@ -1,6 +1,6 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png)
 <h1 align="center">Hi 👋, I'm Oğuzhan Bulun</h1>
-<h3 align="center">A backend developer.</h3>
+<h3 align="center">A backend developer</h3>
 
 - 🔭 I’m currently working on **.Net&.Net Core**
 
